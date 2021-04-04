@@ -9,6 +9,7 @@ import seaborn as sns
 
 # NLP packages
 import spacy
+python -m spacy download en_core_web_sm
 nlp = spacy.load("en_core_web_sm")
 from spacy import displacy
 from textblob import TextBlob
