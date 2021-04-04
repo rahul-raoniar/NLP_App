@@ -13,4 +13,4 @@ wordcloud==1.8.1
 docx2txt==0.8
 pdfplumber==0.5.27
 spacy-streamlit==1.0.0
-./en_core_web_sm-2.2.5.tar.gz
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
