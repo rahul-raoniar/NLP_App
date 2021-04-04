@@ -4,8 +4,7 @@ import streamlit.components.v1 as stc
 
 # Additional packages
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+
 
 # NLP packages
 import spacy
